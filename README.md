@@ -22,12 +22,14 @@ class DataScientist:
         self.interests = ["Machine Learning", "Deep Learning", "Spatial Analysis", "Time Series"]
         self.current_focus = "Building impactful data science projects"
         self.open_to = "Freelance & Remote Opportunities"
-    
+
     def connect(self):
         print("📫 redietgoshu06@gmail.com")
         print("🔗 linkedin.com/in/rediet-goshu-46a7b736b")
         print("🔗 github.com/redina06")
-        ---
+```
+
+---
 
 ### 🛠️ **My Data Science Tech Stack**
 
@@ -93,28 +95,8 @@ class DataScientist:
 ```mermaid
 timeline
     title Data Science Learning Path
-    2023 : Python Basics
-         : Data Analysis
-    2024 : Machine Learning
-         : Statistics
-    2025 : Deep Learning
-         : Spatial Analysis
-    2026 : Advanced ML
-         : Big Data
-         : Open Source
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        
+    2023 : Python Basics : Data Analysis
+    2024 : Machine Learning : Statistics
+    2025 : Deep Learning : Spatial Analysis
+    2026 : Advanced ML : Big Data : Open Source
+```
